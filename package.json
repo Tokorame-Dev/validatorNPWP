@@ -1,6 +1,6 @@
 {
   "name": "npwp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validasi Nomor Pokok Wajib Pajak",
   "main": "index.js",
   "scripts": {
