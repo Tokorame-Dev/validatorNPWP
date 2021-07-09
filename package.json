@@ -1,0 +1,20 @@
+{
+  "name": "npwp",
+  "version": "1.0.0",
+  "description": "Validasi Nomor Pokok Wajib Pajak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validator",
+    "tokorame",
+    "npwp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tokorame-Dev/validatorNPWP.git"
+  },
+  "author": "Rii",
+  "license": "MIT"
+}
